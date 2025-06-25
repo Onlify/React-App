@@ -15,5 +15,8 @@
     "url": "https://github.com/Onlify/React-App/issues"
   },
   "homepage": "https://github.com/Onlify/React-App#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
