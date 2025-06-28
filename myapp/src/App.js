@@ -1,9 +1,8 @@
-const App = () => {
-  return (
-    <div>
-      <h1>Helloooas daosi jdas djas </h1>
-    </div>
-  )
+
+const App = () =>{
+    return(
+        <h1>te</h1>
+    ); 
 }
 
-export default App
+export default App;
